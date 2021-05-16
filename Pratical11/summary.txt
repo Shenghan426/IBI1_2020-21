@@ -1,0 +1,6 @@
+Results
+1.Human-mouse group scored 1091 with 89.64% identical amino acids
+2.When comparing the human and mouse sequences with a random sequence, both sequences scored -250 with 5.41% (human-random) and 5.86% (mouse-random) of identical amino acids.
+Conclusion
+SOD2 sequences has great similarity between human and mouse, which shows SOD2 protein was present in the same ancestors of human and mouse.
+The conservation suggests the SOD2 protein may be not a species-spesific protein.
